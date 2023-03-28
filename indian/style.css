@@ -1,0 +1,17 @@
+body{
+    margin:8px;
+}
+.saffron{
+    background:#ff9933;
+    height:100px;
+}
+
+.white{
+    background:white;
+    height:100px;
+}
+
+.green{
+    background:green;
+    height:100px;
+}

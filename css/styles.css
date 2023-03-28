@@ -1,0 +1,8 @@
+body{
+    background: saddlebrown;
+    color:chocolate;
+    font-size: 25px; /* 0px-100px and beyond */
+    font-weight: bold; /* ligher,normal,bold */
+    text-align: center; /* left,center or right */
+    margin-top: 0px; /* From 0px and upwards */
+}
